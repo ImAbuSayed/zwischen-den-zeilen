@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zwischen den Zeilen
+
+This log tracks the cryptographic history and versioning for the song **Zwischen den Zeilen** (zwischen-den-zeilen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-29T01:17:34.055475 | `v1` | `cc42487b06f473281f045ccf35b55d3ee24eea345e0efe14ea024f7adc95919c` | `afdd6a94c41440753d3a2abf705a8b4a958512cd2d173f7d0584140487255155` | `2026-06-29_zwischen-den-zeilen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
