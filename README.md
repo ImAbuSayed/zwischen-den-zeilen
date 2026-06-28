@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zwischen-den-zeilen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Zwischen den Zeilen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zwischen-den-zeilen/) |
+| **Get License** | [Request Licensing for Zwischen den Zeilen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zwischen-den-zeilen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4616)
 
 ---
 
