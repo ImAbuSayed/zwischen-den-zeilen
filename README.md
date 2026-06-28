@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zwischen-den-zeilen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Zwischen den Zeilen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zwischen-den-zeilen/) |
+| **Get License** | [Request Licensing for Zwischen den Zeilen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zwischen-den-zeilen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Lack, rote Lippen, Neonlicht auf deiner Haut
+> Die ganze Stadt schläft, doch wir beide sind laut
+> Dein Atem so nah, spür den Puls in der Nacht
+> Du hast mich mit einem Blick um den Verstand gebracht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
